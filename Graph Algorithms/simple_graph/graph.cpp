@@ -88,9 +88,15 @@ void simple_graph::delete_edge(int a, int b) {
     }
 }
 
-/**void simple_graph::BFS_vist(int vertex,) {
+void simple_graph::BFS_vist()
+{
 
-}*/
+}
+
+void simple_graph::DFS_visit()
+{
+
+}
 
 /* Print the resulting graph */
 void simple_graph::print() {

@@ -27,6 +27,7 @@ public:
     void delete_vertex(int a);
     void delete_edge(int a, int b);
     void BFS_visit();
+    void DFS_visit();
     void print();
 };
 

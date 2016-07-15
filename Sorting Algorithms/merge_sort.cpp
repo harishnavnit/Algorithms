@@ -12,11 +12,11 @@ void merge_sort(int [], int [], int, int);
 /* Main method */
 int main(int argc, char const* argv[])
 {
-    int aarr[10], barr[10], m, n;
+    int a[10], b[10], m, n;
 
-    cout<<"\nEnter the size of the first array : ";
+    cout<<"\nFirst array size : ";
     cin>>m;
-    cout<<"\nEnter the size of the second array : ";
+    cout<<"\nSecond array size : ";
     cin>>n;
 
     cout<<"\nEnter the elements of the first element : ";
